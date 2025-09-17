@@ -60,3 +60,4 @@ Thumbs.db       # Windows thumbnail cache files
 .cache/         # General cache directories
 *.tgz           # Tarball packages
 .eslintcache    # ESLint cache file (from Create React App)
+package-lock.json
