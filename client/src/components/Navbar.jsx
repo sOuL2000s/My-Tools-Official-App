@@ -26,7 +26,7 @@ const Navbar = () => {
       <ul className="navbar-links">
         {currentUser ? (
           <>
-            <li><Link to="/tool-one">Tool One</Link></li>
+            <li><Link to="/tool-one">AI Chatbot</Link></li>
             <li><Link to="/tool-two">Tool Two</Link></li>
             <li><button onClick={handleLogout} className="logout-button">Logout</button></li>
           </>
